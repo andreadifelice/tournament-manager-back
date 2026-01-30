@@ -19,9 +19,9 @@ return [
     // Configurazione per MySQL/PostgreSQL
     'host' => 'localhost',
     'port' => 5432, // 3306 per MySQL, 5432 per PostgreSQL
-    'database' => 'my_db',
+    'database' => 'tournament_manager',
     'username' => 'postgres',
-    'password' => 'postgres',
+    'password' => '040322',
     //'charset' => 'utf8mb4', // Solo per MySQL
 
     // Opzioni PDO aggiuntive (opzionale)
